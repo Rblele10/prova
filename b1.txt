@@ -1,6 +1,10 @@
 <html>
   <body>
+<<<<<<< HEAD
        <h1>Conteúdo adicional</h1>
         <p>Outra linha</p>
+=======
+       <h1>/h1>
+>>>>>>> teste
    </body>
 </html>
